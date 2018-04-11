@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="start_reg_btn" type="id">Start a new account</item>
+    <item name="need_a_new_account" type="id">Need a new account</item>
+</resources>
